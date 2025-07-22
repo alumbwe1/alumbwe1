@@ -53,12 +53,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-> *(Add your top repositories or pinned projects here with short descriptions and emojis)*
-
----
-
 ### 🧠 Currently Learning
 - 🧬 TensorFlow Lite & on-device ML
 - 🧭 Flutter clean architecture
