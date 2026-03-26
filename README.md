@@ -76,43 +76,6 @@ I build mobile-first products people actually enjoy using. My stack centers on *
 </tr>
 </table>
 
----
-
-## Projects
-
-<table>
-<tr>
-<td width="4%" align="center">🚗</td>
-<td width="18%"><strong>NyamiX</strong></td>
-<td width="58%">All-in-one rides and events platform — connecting users with transport and local happenings in one place.</td>
-<td width="20%">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center">💕</td>
-<td><strong>HeartLink</strong></td>
-<td>Campus dating app built for CBU students — thoughtfully designed for real connections.</td>
-<td>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</td>
-</tr>
-<tr>
-<td align="center">🖨️</td>
-<td><strong>PrintBox</strong></td>
-<td>Print directly to nearby printers in real-time. No WhatsApp chains, no file transfers — just send and print.</td>
-<td>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-</td>
-</tr>
-</table>
-
----
 
 ## GitHub
 
